@@ -216,3 +216,11 @@
 .testimonial-carousel .owl-dot.active {
   background: var(--primary);
 }
+
+#footer {
+  width: 900px;
+  margin-left: 420px;
+  margin-right: 300px;
+  background-color: none;
+  color: none;
+}
